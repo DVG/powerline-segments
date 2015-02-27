@@ -6,7 +6,7 @@ require 'powerline-segments/version'
 Gem::Specification.new do |spec|
   spec.name          = "powerline-segments"
   spec.version       = PowerlineSegments::VERSION
-  spec.authors       = ["Bradley Temple"]
+  spec.authors       = ["DVG"]
   spec.email         = ["bradley.temple@gmail.com"]
   spec.summary       = %q{Gem to easily generate powerline segments for TMUX}
   spec.homepage      = ""
